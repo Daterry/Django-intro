@@ -1,1 +1,14 @@
 *.pyc
+<<<<<<< HEAD
+=======
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+>>>>>>> db2e5a36a78084747c6c648e59114cebf5cfe92e
